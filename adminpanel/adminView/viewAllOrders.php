@@ -45,7 +45,9 @@
                 <td><button class="btn btn-danger"  onclick="ChangePay('<?=$row['order_id']?>')">Unpaid</button></td>
             <?php
                         
-            }else if($row["pay_status"]==1){
+            }
+            else if($row["pay_status"]==1)
+            {
             ?>
                 <td><button class="btn btn-success" onclick="ChangePay('<?=$row['order_id']?>')">Paid </button></td>
             <?php

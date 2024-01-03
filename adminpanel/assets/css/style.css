@@ -17,12 +17,25 @@
 
 /*********** admin dashboard styling **********/
   .card{
-      background-color: #3B3131;
+      background-color: #16375b;
       padding:20px;
       margin: 10px;
       border-radius: 10px;
-      box-shadow: 8px 5px 5px #3B3131;
+      box-shadow: 8px 5px 5px  #16375b;
   }
+
+     .fa-users {
+        color: #fff;
+    }
+    .fa-th-large {
+      color: #fff;
+    }
+    .fa-th {
+      color: #fff;
+    }
+      .fa-list {
+        color: #fff;
+      }
 
 /************************** for sidebar ***********************************/
 
@@ -34,7 +47,7 @@
       z-index: 1; /* Stay on top */
       top: 0;
       left: 0;
-      background-color: #3B3131; /* Black*/
+      background-color:#16375b; /* Black*/
       overflow-x: hidden; /* Disable horizontal scroll */
       padding-top: 60px; /* Place content 60px from the top */
       transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
@@ -77,7 +90,7 @@
       padding: 10px 15px;
       border: none;
       color: #fff;
-      background-color:#584e46;
+      background-color: #16375b;
     }
     
     .openbtn:hover {

@@ -42,7 +42,7 @@
             <div class="col-sm-3">
                 <div class="card">
                     <i class="fa fa-th-large mb-2" style="font-size: 70px;"></i>
-                    <h4 style="color:white;">Total Categories</h4>
+                    <h4 style="color:white;">Total Cat</h4>
                     <h5 style="color:white;">
                     <?php
                        
